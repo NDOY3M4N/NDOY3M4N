@@ -2,7 +2,7 @@
 
 My name is Papa Elhadj Abdoulaye NDOYE, I'm a web developer living in Dakar :senegal:
 
-- 🌱 I’m currently learning Larevel & VueJS
+- 🌱 I’m still learning Laravel & VueJS
 - 📫 How to reach me: [pa.ndoye@outlook.fr](mailto:pa.ndoye@outlook.fr)
 - ⚡ My dream: Watch anime without reading the subtitles
 
